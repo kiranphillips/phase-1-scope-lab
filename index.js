@@ -1,1 +1,8 @@
-// Write your solution in this file!
+ customerName = 'bob'  
+ customerName.toUpperCase(bob)// function setBestCustomer() {
+//   const setBestCustomer = bob;
+
+//   return customerName + setBestCustomer;
+// }
+
+// customerName();
